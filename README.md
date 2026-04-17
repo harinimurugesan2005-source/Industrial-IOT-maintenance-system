@@ -22,3 +22,12 @@ It helps to monitor machine health and predict failures in advance.
 
 ## Output
 Shows prediction of machine failure and maintenance alerts.
+
+
+## Advantages
+- Reduces machine failure
+- Saves time and cost
+
+## Future Scope
+- Can be integrated with real-time sensors
+- Can be deployed in industries
